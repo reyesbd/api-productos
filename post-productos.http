@@ -1,0 +1,8 @@
+POST http://127.0.0.1:3000/api/productos
+Content-Type: application/json
+
+{
+    "nombre":"Laptop Lenovo",
+    "precio": "9000",
+    "categoriaId" : "1"
+}

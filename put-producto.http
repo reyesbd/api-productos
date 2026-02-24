@@ -1,0 +1,8 @@
+PUT http://127.0.0.1:3000/api/productos/1
+Content-Type: application/json
+
+{
+    "nombre":"Laptop Asus 5000",
+    "precio": "7800",
+    "categoriaId":"1"
+}
